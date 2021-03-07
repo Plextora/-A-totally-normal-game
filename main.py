@@ -37,8 +37,8 @@ while command != "quit":
   elif command == "observe":
     print(" ")
     print("""You observe the drawing. Drawn in blood: See no evil, Hear no evil, Speak no evil. It sends chills down your spine.
-    the blood probably belongs to your parents. Before your able to think of who would of done this. Someone jumps you. You get
-    stabbed multiple times. And then..... blackness.""")
+    the blood probably belongs to your parents. Before your able to think of who would of done this. Someone jumps you. You get stabbed multiple times. And then..... blackness.
+    """)
     print(" ")
 
     print("TO BE CONTINUED")
